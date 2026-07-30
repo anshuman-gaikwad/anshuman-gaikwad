@@ -259,6 +259,26 @@ Voice-controlled desktop assistant for task automation.
 
 ---
 
+# 📫 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/anshuman-gaikwad-981299332">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="gaikwad.anshuman0728@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
 # 🎯 Career Objective
 
 To build intelligent AI systems that solve real-world problems through Machine Learning, Data Science, Data Analytics and Modern Full Stack Development while continuously learning and contributing to open-source projects.
