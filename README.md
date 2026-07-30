@@ -51,7 +51,7 @@ Passionate about building AI-powered applications, extracting insights from data
 
 📫 Reach Me
 
-YOUR_EMAIL@gmail.com
+anshuman.gaikwad_24uds@sanjivani.edu.in
 
 ---
 
@@ -244,7 +244,7 @@ Voice-controlled desktop assistant for task automation.
 <p>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://www.linkedin.com/in/anshuman-gaikwad-981299332"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
@@ -252,7 +252,7 @@ Voice-controlled desktop assistant for task automation.
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://github.com/anshuman-gaikwad/anshuman-gaikwad"/>
 </a>
 
 </p>
