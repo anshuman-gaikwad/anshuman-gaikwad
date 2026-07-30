@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,react,nodejs,express,mongodb,mysql,tensorflow,pytorch,opencv,git,github,docker,linux,vscode,aws,gcp,firebase,flask"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,html,css,react,nodejs,express,mongodb,mysql,tensorflow,pytorch,opencv,git,github,docker,linux,vscode,aws,gcp,firebase,flask,arduino&perline=8"/>
 
 </div>
 
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -73,7 +73,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
 
@@ -91,13 +91,17 @@
 
 # 🐍 Contribution Snake
 
+> **This image will NOT work until you create the GitHub Action (`snake.yml`).**
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
-
----
 
 # 🚀 Featured Projects
 
