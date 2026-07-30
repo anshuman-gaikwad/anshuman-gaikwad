@@ -54,7 +54,7 @@ Passionate about building AI-powered applications, extracting insights from data
 
 📫 Reach Me
 
-YOUR_EMAIL@gmail.com
+anshuman.gaikwad_24uds@sanjivani.edu.in
 
 ---
 
