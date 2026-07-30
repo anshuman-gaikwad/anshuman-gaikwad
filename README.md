@@ -1,269 +1,190 @@
-<h1 align="center">Hi 👋, I'm Anshuman Gaikwad</h1>
+# 🚧 PREMIUM GITHUB PROFILE README
 
-<h3 align="center">
-AI & Machine Learning Engineer | Data Scientist | Data Analyst | Full Stack Developer
-</h3>
+> **Replace the following placeholders before using:**
+>
+> - `YOUR_GITHUB_USERNAME`
+> - `YOUR_LINKEDIN_URL`
+> - `YOUR_EMAIL@gmail.com`
+> - `YOUR_PORTFOLIO`
+> - `YOUR_LEETCODE`
+> - `YOUR_RESUME_LINK`
 
-<p align="center">
-Passionate about building AI-powered applications, extracting insights from data, and developing scalable web applications.
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Data+Analysis;Computer+Vision;Generative+AI;Full+Stack+Development;Python+Developer" />
-</p>
+# Hi 👋, I'm Anshuman Gaikwad
 
+### AI & Machine Learning Engineer • Data Scientist • Data Analyst • Full Stack Developer
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Data+Science;Computer+Vision;Generative+AI;Python+Developer;Full+Stack+Developer;Open+Source+Enthusiast" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
 # 🚀 About Me
 
-🎓 Final Year B.Tech Student in Artificial Intelligence & Data Science
-
-💡 Passionate about solving real-world problems using Artificial Intelligence, Machine Learning and Data Science.
-
-🔭 Currently working on
-
-- Machine Learning Projects
-- Deep Learning
-- Computer Vision
-- Data Analytics
-- Full Stack Applications
-
-🌱 Currently Learning
-
-- Large Language Models (LLMs)
-- LangChain
-- LangGraph
-- Agentic AI
-- Docker
-- Kubernetes
-- MLOps
-
-💬 Ask Me About
-
-- Python
-- Machine Learning
-- Data Science
-- Data Analytics
-- Computer Vision
-- MERN Stack
-- SQL
-
-📫 Reach Me
-
-anshuman.gaikwad_24uds@sanjivani.edu.in
+- 🎓 Final Year B.Tech Student in Artificial Intelligence & Data Science
+- 🤖 Passionate about AI, Machine Learning & Deep Learning
+- 📊 Data Science & Data Analytics Enthusiast
+- 💻 Full Stack Developer
+- 🚀 Building Real World AI Applications
+- 🌱 Currently Learning LLMs, LangChain, LangGraph, Agentic AI, Docker & MLOps
+- 🎯 Open to AI/ML, Data Science & Software Engineering Opportunities
 
 ---
 
 # 💻 Tech Stack
 
-## Programming Languages
+<div align="center">
 
-<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,react,nodejs,express,mongodb,mysql,tensorflow,pytorch,opencv,git,github,docker,linux,vscode,aws,gcp,firebase,flask"/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-## Artificial Intelligence & Machine Learning
+# 📊 GitHub Analytics
 
-<p>
+<div align="center">
 
-<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-## Data Science & Analytics
+# 🔥 GitHub Streak
 
-<p>
+<div align="center">
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-0C4B75?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Microsoft Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
-
-</p>
+</div>
 
 ---
 
-## Full Stack Development
+# 🏆 GitHub Trophies
 
-<p>
+<div align="center">
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7&margin-w=10"/>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-
-<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
-
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-
-<img src="https://img.shields.io/badge/REST API-02569B?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-## Cloud & Tools
+# 📈 Contribution Graph
 
-<p>
+<div align="center">
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
 
-<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=googlecloud"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
-
-<img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-
-</p>
+</div>
 
 ---
 
-# 📌 Featured Projects
+# 🐍 Contribution Snake
 
-### 🚗 Edge AI Driver Drowsiness Detection
+<div align="center">
 
-Python • TensorFlow • OpenCV • MediaPipe • CNN
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
-Real-time driver fatigue detection system using Computer Vision and Deep Learning.
-
----
-
-### 🤖 AI Placement Prediction System
-
-Machine Learning • Streamlit • Scikit-Learn
-
-Predicts student placement using ML algorithms.
+</div>
 
 ---
 
-### 📊 Uber Data Analytics
+# 🚀 Featured Projects
 
-Python • Pandas • NumPy • Matplotlib
-
-Performed Exploratory Data Analysis and visualization on Uber ride data.
-
----
-
-### 🦯 Smart Blind Stick
-
-Arduino • Flutter • Firebase • IoT
-
-Smart navigation system for visually impaired people.
-
----
-
-### 📚 Study Swap Marketplace
-
-React • Node.js • MongoDB • Express
-
-Marketplace platform for buying and selling study materials.
-
----
-
-### 🎙 Python Voice Assistant
-
-Python • Speech Recognition
-
-Voice-controlled desktop assistant for task automation.
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🚗 Edge AI Driver Drowsiness Detection | Real-Time Driver Fatigue Detection using Computer Vision | Python • TensorFlow • OpenCV • MediaPipe |
+| 🤖 AI Placement Prediction | Predict Student Placement using Machine Learning | Python • Streamlit • Scikit-Learn |
+| 📊 Uber Data Analytics | Exploratory Data Analysis & Visualization | Pandas • NumPy • Matplotlib |
+| 🦯 Smart Blind Stick | IoT Navigation System for Visually Impaired | Arduino • Flutter • Firebase |
+| 📚 Study Swap Marketplace | Marketplace for Buying & Selling Study Materials | MERN Stack |
+| 🎙 Python Voice Assistant | Desktop Voice Automation Assistant | Python |
 
 ---
 
 # 📜 Certifications
 
-🏆 IBM Cloud Fundamentals
-
-🏆 Google Cloud Generative AI
-
-🏆 Machine Learning
-
-🏆 Deep Learning
-
-🏆 Python Programming
+- 🏆 IBM Cloud Fundamentals
+- 🏆 Google Cloud Generative AI
+- 🏆 Machine Learning
+- 🏆 Deep Learning
+- 🏆 Python Programming
 
 ---
 
 # 🌱 Currently Learning
 
 - Large Language Models (LLMs)
-
-- Agentic AI
-
 - LangChain
-
 - LangGraph
-
-- RAG
-
-- MLOps
-
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
 - Docker
-
 - Kubernetes
+- MLOps
 
 ---
 
-# 📫 Connect With Me
+# 🌐 Connect With Me
 
-<p>
+<div align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+<a href="YOUR_LEETCODE">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"/>
+</a>
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive"/>
+</a>
+
+</div>
+
+---
+
+# 💬 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
 
 ---
 
 # 🎯 Career Objective
 
-To build intelligent AI systems that solve real-world problems through Machine Learning, Data Science, Data Analytics and Modern Full Stack Development while continuously learning and contributing to open-source projects.
+> Building intelligent AI systems that solve real-world problems using Artificial Intelligence, Machine Learning, Data Science and Modern Software Engineering while contributing to Open Source.
 
 ---
 
-⭐ *"Transforming data into intelligent solutions through Artificial Intelligence and Software Engineering."*
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+</div>
