@@ -239,25 +239,7 @@ Voice-controlled desktop assistant for task automation.
 
 ---
 
-# 📫 Connect With Me
 
-<p>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://www.linkedin.com/in/anshuman-gaikwad-981299332"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://github.com/anshuman-gaikwad/anshuman-gaikwad"/>
-</a>
-
-</p>
-
----
 
 # 📫 Connect With Me
 
@@ -271,7 +253,7 @@ Voice-controlled desktop assistant for task automation.
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/anshuman-gaikwad">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
