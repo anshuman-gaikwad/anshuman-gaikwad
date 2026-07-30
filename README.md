@@ -12,9 +12,7 @@ Passionate about building AI-powered applications, extracting insights from data
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Data+Analysis;Computer+Vision;Generative+AI;Full+Stack+Development;Python+Developer" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
+
 
 ---
 
