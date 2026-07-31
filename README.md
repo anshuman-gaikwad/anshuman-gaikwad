@@ -249,7 +249,7 @@ Voice-controlled desktop assistant for task automation.
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="gaikwad.anshuman0728@gmail.com">
+<a href="anshuman.gaikwad_24uds@sanjivani.edu.in">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
