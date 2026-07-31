@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anshuman Gaikwad</h1>
+<h1 align="center">Hi , I'm Anshuman Gaikwad</h1>
 
 <h3 align="center">
 AI & Machine Learning Engineer | Data Scientist | Data Analyst | Full Stack Developer
@@ -15,13 +15,13 @@ Passionate about building AI-powered applications, extracting insights from data
 
 ---
 
-# 🚀 About Me
+# ✦ About Me
 
-🎓 Final Year B.Tech Student in Artificial Intelligence & Data Science
+✦ Final Year B.Tech Student in Artificial Intelligence & Data Science
 
-💡 Passionate about solving real-world problems using Artificial Intelligence, Machine Learning and Data Science.
+✦ Passionate about solving real-world problems using Artificial Intelligence, Machine Learning and Data Science.
 
-🔭 Currently working on
+✦ Currently working on
 
 - Machine Learning Projects
 - Deep Learning
@@ -29,7 +29,7 @@ Passionate about building AI-powered applications, extracting insights from data
 - Data Analytics
 - Full Stack Applications
 
-🌱 Currently Learning
+✦ Currently Learning
 
 - Large Language Models (LLMs)
 - LangChain
@@ -39,7 +39,7 @@ Passionate about building AI-powered applications, extracting insights from data
 - Kubernetes
 - MLOps
 
-💬 Ask Me About
+✦ Ask Me About
 
 - Python
 - Machine Learning
@@ -49,13 +49,13 @@ Passionate about building AI-powered applications, extracting insights from data
 - MERN Stack
 - SQL
 
-📫 Reach Me
+✦ Reach Me
 
 anshuman.gaikwad_24uds@sanjivani.edu.in
 
 ---
 
-# 💻 Tech Stack
+# ✦ Tech Stack
 
 ## Programming Languages
 
@@ -155,9 +155,9 @@ anshuman.gaikwad_24uds@sanjivani.edu.in
 
 ---
 
-# 📌 Featured Projects
+# ✦ Featured Projects
 
-### 🚗 Edge AI Driver Drowsiness Detection
+### ✦ Edge AI Driver Drowsiness Detection
 
 Python • TensorFlow • OpenCV • MediaPipe • CNN
 
@@ -165,7 +165,7 @@ Real-time driver fatigue detection system using Computer Vision and Deep Learnin
 
 ---
 
-### 🤖 AI Placement Prediction System
+### ✦ AI Placement Prediction System
 
 Machine Learning • Streamlit • Scikit-Learn
 
@@ -173,7 +173,7 @@ Predicts student placement using ML algorithms.
 
 ---
 
-### 📊 Uber Data Analytics
+### ✦ Uber Data Analytics
 
 Python • Pandas • NumPy • Matplotlib
 
@@ -181,7 +181,7 @@ Performed Exploratory Data Analysis and visualization on Uber ride data.
 
 ---
 
-### 🦯 Smart Blind Stick
+### ✦ Smart Blind Stick
 
 Arduino • Flutter • Firebase • IoT
 
@@ -189,7 +189,7 @@ Smart navigation system for visually impaired people.
 
 ---
 
-### 📚 Study Swap Marketplace
+### ✦ Study Swap Marketplace
 
 React • Node.js • MongoDB • Express
 
@@ -197,7 +197,7 @@ Marketplace platform for buying and selling study materials.
 
 ---
 
-### 🎙 Python Voice Assistant
+### ✦ Python Voice Assistant
 
 Python • Speech Recognition
 
@@ -205,7 +205,7 @@ Voice-controlled desktop assistant for task automation.
 
 ---
 
-# 📜 Certifications
+# ✦ Certifications
 
 🏆 IBM Cloud Fundamentals
 
@@ -219,7 +219,7 @@ Voice-controlled desktop assistant for task automation.
 
 ---
 
-# 🌱 Currently Learning
+# ✦ Currently Learning
 
 - Large Language Models (LLMs)
 
@@ -241,7 +241,7 @@ Voice-controlled desktop assistant for task automation.
 
 
 
-# 📫 Connect With Me
+# ✦ Connect With Me
 
 <p>
 
@@ -261,10 +261,10 @@ Voice-controlled desktop assistant for task automation.
 
 ---
 
-# 🎯 Career Objective
+# ✦ Career Objective
 
 To build intelligent AI systems that solve real-world problems through Machine Learning, Data Science, Data Analytics and Modern Full Stack Development while continuously learning and contributing to open-source projects.
 
 ---
 
-⭐ *"Transforming data into intelligent solutions through Artificial Intelligence and Software Engineering."*
+✦ *"Transforming data into intelligent solutions through Artificial Intelligence and Software Engineering."*
