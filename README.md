@@ -17,7 +17,7 @@ Passionate about building AI-powered applications, extracting insights from data
 
 # ✦ About Me
 
-✦ Final Year B.Tech Student in Artificial Intelligence & Data Science
+✦ Final Year B.Tech Student in Artificial Intelligence & Data Science.
 
 ✦ Passionate about solving real-world problems using Artificial Intelligence, Machine Learning and Data Science.
 
