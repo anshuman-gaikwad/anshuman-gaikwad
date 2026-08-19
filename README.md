@@ -1,4 +1,4 @@
-<h1 align="center">Hi,  I'm Anshuman Gaikwad</h1>
+<h1 align="center">Hi, I'm Anshuman Gaikwad</h1>
 
 <h3 align="center">
 AI & Machine Learning Engineer | Data Scientist | Data Analyst | Full Stack Developer
